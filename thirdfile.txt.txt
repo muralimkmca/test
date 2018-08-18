@@ -1,1 +1,1 @@
-third file text
+third file text changes in master_copy
